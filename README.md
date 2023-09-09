@@ -9,7 +9,7 @@
 ## 2. ![image](https://github.com/sshreyaa05/Space-Mission-Dashboard/assets/132264752/e5f7fd3b-a54b-40bb-96c2-8819103104ba)
 ## 3. ![image](https://github.com/sshreyaa05/Space-Mission-Dashboard/assets/132264752/f779d622-25e1-47c3-b04e-c4d2d3cb9302)
 ## Conclusion :
-## In conclusion, this project stands as a testament to human ingenuity, collaboration, and our insatiable curiosity about the cosmos. It reaffirms our belief in the boundless potential of scientific exploration and underscores the critical role that advanced technologies like Power BI play in unlocking the secrets of the universe.
+## In conclusion, this project stands as a testament to human ingenuity, collaboration, and our insatiable curiosity about the cosmos. It reaffirms our belief in the boundless potential of scientific exploration and underscores the critical role that advanced technologies like Power BI play in unlocking the secrets of the universe. 
 
 
 
